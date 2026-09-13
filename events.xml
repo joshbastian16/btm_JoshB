@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
+<events>
+ <track type="1" name="early">
+  <event>
+    <title>Minecraft gets its first pre-classic test build</title>
+    <date type="start">
+      <year>2009</year>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>2009</year>
+      <era>AD</era>
+    </date>
+    <description>Notch releases the first playable edition of Minecraft.</description>
+    <lat>59.33</lat>
+    <lon>18.06</lon>
+  </event>
+
+   <event>
+     <title>First Major Minecraft Update</title>
+     <date type="start">
+       <year>2010</year>
+       <month>10</month>
+       <day>31</day>
+       <era>AD</era>
+     </date>
+     <date type="end">
+     </date>
+     <description>This was the Halloween update which saw the introduction of the nether and included several mobs like Ghasts and zombie pigmen</description>
+     <lat>59.33</lat>
+     <lon>18.06</lon>
+   </event>
+
+  <event>
+    <title>Minecraft First released</title>
+    <date type="start">
+      <year>2011</year>
+      <month>05</month>
+      <era>ad</era>
+    </date>
+    <description>The first official minecraft release date.</description>
+    <lat>59.33</lat>
+    <lon>18.06</lon>
+  </event>
+  </track>
+ 
+ <track type="2" name="mid">
+  <event>
+    <title>Team Crafted is formed</title>
+    <date type="start">
+      <year>2013</year>
+      <month>12</month>
+      <day>8</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+    </date>
+    <description>Team crafted was one of the most famous content groups that brought together several big minecraft youtubers at the time.</description>
+    <lat>34.15917</lat>
+    <lon>-118.50028</lon>
+  </event>
+ 
+  <event>
+    <title>Villager Apocalypse</title>
+    <date type="start">
+      <year>2014</year>
+      <month>04</month>
+      <day>1</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+      <year>2014</year>
+      <month>04</month>
+      <day>2</day>
+      <era>AD</era>
+    </date>
+    <description>Minecraft replaced everyone's in-game skins with the villager character model</description>
+    <lat>48.8656</lat>
+    <lon>2.3212</lon>
+  </event>
+ </track>
+
+<track type="3" name="late">
+  <event>
+    <title>Napoleon crowned Emperor</title>
+    <date type="start">
+      <year>1804</year>
+      <month>12</month>
+      <day>02</day>
+      <era>AD</era>
+    </date>
+    <date type="end">
+    </date>
+    <description>Napoleon Bonaparte crowned himself Emperor of the French at Notre-Dame de Paris.</description>
+    <lat>48.8530</lat>
+    <lon>2.3499</lon>
+    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg/480px-David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg</media>
+  </event>
+ </track>
+</events>
