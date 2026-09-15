@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
+<?xml-model href="events_Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <events>
  <track type="1" name="early">
   <event>
@@ -95,7 +96,6 @@
     <description>Napoleon Bonaparte crowned himself Emperor of the French at Notre-Dame de Paris.</description>
     <lat>48.8530</lat>
     <lon>2.3499</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg/480px-David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg</media>
   </event>
  </track>
 </events>

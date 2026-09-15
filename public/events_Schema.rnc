@@ -1,0 +1,20 @@
+start = events
+events = element events {track+}
+
+track = element track {type, name, event+}
+
+type = attribute type {"1"|"2"|"3"|"start"|"end"}
+name = attribute name {"early"|"mid"|"late"}
+
+event = element event {title, date+, description, lat, lon}
+title = element title {text}
+date = element date {type, year?, month?, day?, era?}
+
+year = element year{text}
+month = element month {text}
+day = element day {text}
+era = element era {text}
+
+description = element description {text}
+lat = element lat {text}
+lon = element lon {text}
